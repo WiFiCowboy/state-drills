@@ -1,2 +1,2 @@
 # state-drills
-## worked one by Rupali Rajput and Humberto Hernandez
+## worked on by Rupali Rajput and Humberto Hernandez
